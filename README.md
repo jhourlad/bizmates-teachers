@@ -1,4 +1,4 @@
-## About Laravel
+## To see the answers to the MySQL test:
 
 1. Run the accompanying migrations and seeder: `php artisan migrate --seed`
 
