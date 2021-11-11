@@ -63,6 +63,7 @@ class Test extends Command
         $output = ob_get_contents();
         ob_end_clean();
 
+        echo PHP_EOL . PHP_EOL . $sql . PHP_EOL . PHP_EOL;
         print $output . PHP_EOL;
     }
 
